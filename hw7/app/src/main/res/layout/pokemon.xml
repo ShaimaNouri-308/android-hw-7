@@ -49,4 +49,13 @@
         android:textSize="20sp"
         android:textColor="#004FD1"
         android:text="Total" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="325dp"
+        app:srcCompat="@drawable/trash1" />
+
 </RelativeLayout>
